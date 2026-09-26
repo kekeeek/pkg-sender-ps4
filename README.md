@@ -68,7 +68,7 @@ The application allows the user to specify the PS4 address and the appropriate c
 
 Example:
 
-PS4 IP: 192.168.2.94
+PS4 IP: 192.168.xx.xx
 
 The computer and PS4 must be able to communicate over the local network.
 
